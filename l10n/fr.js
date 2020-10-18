@@ -63,7 +63,7 @@ OC.L10N.register(
     "No bookmarks found" : "Aucun favori",
     "Select folder" : "Sélectionner un dossier",
     "Enter folder title" : "Saisissez le nom du dossier",
-    "Shared by {user}" : "Partagé par l'{user}",
+    "Shared by {user}" : "Partagé par {user}",
     "Root folder" : "Dossier racine",
     "Submit" : "Envoyer",
     "Cancel" : "Annuler",
